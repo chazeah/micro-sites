@@ -1,4 +1,4 @@
 micro-sites
 ===========
 
-Simple personal pages for friends
+Simple personal pages for friends and family.
